@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+
+Sitemap: https://poke-api-next14.vercel.app/sitemap.xml
